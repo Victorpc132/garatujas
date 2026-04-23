@@ -1,6 +1,6 @@
 # Garatujas Do Victor
 
-@Coisas para me lembrar@
+Coisas para me lembrar
 
 * Classe :  na pratica é como se fosse um molde, por exemplo uma caneta ela tem tampa, ponta cor etc, a classe aplica isso a um objeto 
 
